@@ -1,0 +1,29 @@
+fastapi
+# For building APIs
+
+uvicorn
+# For ASGI server
+
+pydantic[email]
+# For data validation and serialization
+
+pandas
+# For data manipulation
+
+scikit-learn
+# For MLflow
+
+mlflow
+# For FastAPI
+
+sqlmodel
+# For SQLModel
+
+asyncpg
+# For PostgreSQL
+
+pytest
+# For testing
+
+httpx
+# For testing HTTP requests
