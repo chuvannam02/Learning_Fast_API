@@ -34,7 +34,7 @@ Tùy thuộc vào dự án của bạn, bạn sẽ cần chạy một tệp Pyth
 # Nếu là ứng dụng FastAPI, bạn có thể chạy bằng cách:
 
 uvicorn main:app --reload
-
+python -m uvicorn main:app --reload
 # Nếu là một dự án khác, có thể chạy bằng:
 
 python app.py

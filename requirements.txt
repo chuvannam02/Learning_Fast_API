@@ -27,3 +27,12 @@ pytest
 
 httpx
 # For testing HTTP requests
+
+boto3 
+# For AWS SDK
+
+python-multipart
+# For handling file uploads
+
+apscheduler
+# For scheduling tasks
